@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'labAZUREluizfmp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1BF2F21AB0F3479CBADF6DABB3639402 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_541865ECF96A4086A4660AB2530A73C7 }}
           package: .
